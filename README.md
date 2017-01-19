@@ -12,3 +12,6 @@ Eagle CAD Schematic and Board representation for the EE2-3NUX Relay.  This is a 
 
 #Datasheet
 http://www.kemet.com/Lists/ProductCatalog/Attachments/479/KEM_R7002_EC2_EE2.pdf
+
+#NOTE
+* I found an error on the library, I accidentally switched the +/- on the coil for the board representation.  I need to fix this.  For now the current fix is simply to know this and switch them in your design.  I know it's a messy hack.  I hope to get it fixed.
