@@ -1,5 +1,5 @@
 #Description
-Provides Schematic and board representation for the EE2-3NUX Relay.  This is a SMD component.
+Eagle CAD Schematic and Board representation for the EE2-3NUX Relay.  This is a SMD component.
 
 #Installation
 * Place the relay-ee2-3nux.lbr file in the lbr directory in the eagle cad installation directory.
